@@ -1,4 +1,4 @@
-# discription
+# Discription
 Tutor is a website that will allow students to search for teachers in a spacific subject in a spacific area
 
 # Tichnologies used
